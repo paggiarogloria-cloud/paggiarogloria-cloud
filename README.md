@@ -1,4 +1,4 @@
-# Hi, I'm Gloria Paggiaro
+# Hi, I am Gloria Paggiaro
 
 I am an **Applied Economics master's student and data analyst** with a strong interest in **macroeconomics, financial markets, econometrics, and data-driven economic research**.
 
